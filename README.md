@@ -1,99 +1,140 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ekamjot+Walia+%F0%9F%91%8B;Student+Developer;Learning+by+Building;Open+to+Growth" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Ekamjot+Singh+Walia;Competitive+Programmer;System+Design+Enthusiast;Building+Elegant+Solutions" alt="Typing Animation" />
+</div>
 
-<h1 align="center">Ekamjot Walia</h1>
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student%20Developer-Software%20Learner-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Student Developer" />
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-8A2BE2?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Interested%20In-Python%20%7C%20Java%20%7C%20C%2B%2B%20%7C%20Web%20Dev-00D084?style=for-the-badge" alt="Interests" />
-</p>
+<div align="center">
+  
+  # 💻 Ekamjot Singh Walia
+  
+  **Computer Science Student | Algorithmic Problem Solver | Software Engineer**
+  
+  <a href="https://github.com/EkamjotWalia001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@EkamjotWalia001-000?style=flat-square&logo=github" />
+  </a>
+  <a href="https://leetcode.com/hinkamjot" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-@hinkamjot-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hinkamjot" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@hinkamjot-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hinkamjot@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-hinkamjot-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 
-<p align="center">
-  I’m a motivated student developer passionate about learning, building, and improving my coding skills through real projects and practical problem solving.
-</p>
+</div>
 
 ---
 
-## About Me
+## ✨ About Me
 
-- 🎓 Student focused on software development and computer science fundamentals
-- 💻 Interested in programming, logic building, and project development
-- 🚀 Constantly learning new languages, tools, and best practices
-- 🌱 Exploring Python, Java, C++, and web development concepts
-- 🤝 Open to learning opportunities, projects, internships, and collaboration
+Passionate **Computer Science student** dedicated to mastering algorithmic problem-solving and system design. I thrive on solving complex challenges with elegant, optimized solutions. My focus is building a strong foundation in DSA and competitive programming while contributing to high-impact projects.
+
+- 🎓 **Education:** Computer Science Student | Strong Foundation in Algorithms & Data Structures
+- 💡 **Passion:** Competitive Programming | System Design | Code Optimization
+- 🏆 **Drive:** Seeking opportunities at top-tier tech companies (Google, Microsoft, Amazon, Apple)
+- 🚀 **Philosophy:** "Write code that scales, solves elegantly, and inspires excellence"
 
 ---
 
-## Tech Stack
+## 🛠️ Technical Expertise
 
-### Languages
-<p>
+### Core Programming Languages
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
 
-### Tools & Platforms
-<p>
+### Development & Tools
+<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+</div>
 
 ---
 
-## Current Focus
+## 📊 Competitive Programming
 
-- 🔧 Strengthening my coding fundamentals
-- 📘 Learning Data Structures and Algorithms
-- 🧩 Building practical and meaningful projects
-- 📈 Improving my GitHub presence with consistent work
-- 💡 Exploring software design and clean development practices
-
----
-
-## Featured Work
-
-### Academic & Learning Projects
-I’m building and improving projects as part of my learning journey, with a focus on:
-- writing clean code
-- understanding real-world problem solving
-- developing practical software skills
-- improving quality through iteration and learning
-
-> More projects and polished repositories are being added as I continue growing.
+| Platform | Status | Link |
+|----------|--------|------|
+| **LeetCode** | Active Problem Solver | [@hinkamjot](https://leetcode.com/hinkamjot) |
+| **Codeforces** | Practicing | [@hinkamjot](https://codeforces.com/profile/hinkamjot) |
+| **HackerRank** | Solved Multiple Challenges | [@hinkamjot](https://www.hackerrank.com/hinkamjot) |
 
 ---
 
-## GitHub Stats
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EkamjotWalia001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EkamjotWalia001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+- 🔥 **Mastering DSA:** Advanced data structures and algorithmic techniques
+- 🏛️ **System Design:** Scalability, architecture, and design patterns
+- ⚡ **Optimization:** Writing efficient, production-grade code
+- 🌐 **Open Source:** Contributing to meaningful projects
+- 📈 **Growth:** Consistent problem-solving and skill enhancement
 
 ---
 
-## Connect
+## 💼 Featured Projects
 
-<p align="center">
+Crafting solutions that demonstrate:
+- ✅ Deep understanding of algorithms and data structures
+- ✅ Clean, well-documented, production-ready code
+- ✅ Optimal time and space complexity analysis
+- ✅ Real-world application of computer science fundamentals
+
+> Portfolio of comprehensive projects available on [GitHub](https://github.com/EkamjotWalia001)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EkamjotWalia001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkamjotWalia001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EkamjotWalia001&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+  I'm always open to discussions about **algorithms, system design, competitive programming**, and **exciting opportunities**.
+  
+  **Feel free to reach out!**
+
+</div>
+
+<div align="center">
+  
   <a href="https://github.com/EkamjotWalia001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-EkamjotWalia001-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-EkamjotWalia001-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://leetcode.com/hinkamjot" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-hinkamjot-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-</p>
+  <a href="https://linkedin.com/in/hinkamjot" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-hinkamjot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hinkamjot@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-hinkamjot-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-<p align="center">
-  "Learning by building, one project at a time."
-</p>
+</div>
+
+<br />
+
+<div align="center">
+  
+  **"Excellence is not a destination, it's a journey of continuous learning and problem-solving."**
+  
+  <sup>Last updated: 2026 | Always learning, always building</sup>
+
+</div>
